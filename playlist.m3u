@@ -1,0 +1,12 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="test1" tvg-name="Test 1" tvg-logo="https://example.com/logo1.png",Тестовый канал 1
+https://stream.example.com/channel1.m3u8
+
+#EXTINF:-1 tvg-id="test2" tvg-name="Test 2" tvg-logo="https://example.com/logo2.png",Тестовый канал 2
+https://stream.example.com/channel2.m3u8
+
+#EXTINF:-1 tvg-id="test3" tvg-name="Test 3",Тестовый канал 3
+http://example.com/stream3
+
+#EXTINF:-1 tvg-id="test4" tvg-name="Test 4" group-title="Новости",Тестовый канал 4
+http://example.com/stream4
